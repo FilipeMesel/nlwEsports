@@ -23,7 +23,7 @@ A construção da Landing Page com React envolveu:
 - Construção de um formulário para geração de novos anúncios.
 - Separação dos anúncios por jogos.
 
-## Conhecimentos adquiridos
+## Conhecimentos adquiridos em React
 - Conhecimentos básicos sobre React;
 - Construção de componentes;
 - Gerenciamento de rotas;
@@ -37,7 +37,7 @@ A construção do App com React Native envolveu:
 - Construção de um formulário para geração de novos anúncios.
 - Separação dos anúncios por jogos.
 
-## Conhecimentos adquiridos
+## Conhecimentos adquiridos em React Native
 - Conhecimentos básicos sobre React Native;
 - Construção de componentes;
 - Gerenciamento de rotas;
