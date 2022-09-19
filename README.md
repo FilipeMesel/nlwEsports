@@ -8,22 +8,22 @@ Ao longo da trilha, atividades práticas foram realizadas envolvendo:
 - Construção de uma landing page com React
 - Construção de um mobile app com React Native.
 
-#API
+# API
 A API foi desenvolvida com o NodeJs (versão 14.16.1) com Typescript e visou prover o uso de um banco de dados relacional com o Prisma.
 
-##Rotas da API:
+## Rotas da API:
 - /games: Acessada com o método "GET" e visa listar os jogos cadastrados na tabela "Games" do banco;
 - /games/id/ads: Acessada com o método "POST" e visa publicar um novo anúncio de duo com o "id" do jogo especificado
 - /games/id/ads: Acessada com o método "GET" e visa listar os anúncios de um jogo especificado pelo seu "id"
 - /ads/id/discord: Acessada com o método "GET" e visa listar os anúncios de um usuário especificado pelo seu discord
 
-#Landing Page React
+# Landing Page React
 A construção da Landing Page com React envolveu:
 - Comunicação com a api para listar os jogos cadastrados e os anúncios de duo também cadastrados;
 - Construção de um formulário para geração de novos anúncios.
 - Separação dos anúncios por jogos.
 
-##Conhecimentos adquiridos
+## Conhecimentos adquiridos
 - Conhecimentos básicos sobre React;
 - Construção de componentes;
 - Gerenciamento de rotas;
@@ -31,13 +31,13 @@ A construção da Landing Page com React envolveu:
 - Construção de formulários;
 - Uso de bibliotecas (principalmente Axios e Radix)
 
-#App React Native
+# App React Native
 A construção do App com React Native envolveu:
 - Comunicação com a api para listar os jogos cadastrados e os anúncios de duo também cadastrados;
 - Construção de um formulário para geração de novos anúncios.
 - Separação dos anúncios por jogos.
 
-##Conhecimentos adquiridos
+## Conhecimentos adquiridos
 - Conhecimentos básicos sobre React Native;
 - Construção de componentes;
 - Gerenciamento de rotas;
